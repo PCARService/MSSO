@@ -35,3 +35,23 @@ Optional:
 The 'try this after.reg' file can be used as a manual reinforcement
 to disable certain services that Windows may re-enable automatically.
 It is not required for normal operation.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Conjunto de Otimização de Sistema Modular (COSM) 
+Desenvolvido e testado por: Mathero
+Traduções: Kury_vandham (pt) 
+
+NESTE CONJUNTO DE SCRIPTS REALIZA OTIMIZAÇÕES A NÍVEL DO SISTEMA OPERACIONAL 
+(Windows 10/11). ELE NÃO MODIFICA A BIOS/UEFI NEM O FIRMWARE.
+
+Como usar?
+Abra o arquivo "Run.cmd" com privilégio de administrador.
+Aguarde a finalização da otimização.
+Reinicie o computador.
+É, só isso mesmo. :b
+
+Opcional: 
+O arquivo 'try this after.reg' pode ser utilizado como uma substituição manual 
+para desativar certos serviços que o Windows pode reativar automaticamente. 
+Ele não é necessário ou obrigatório para o funcionamento do script principal. 
